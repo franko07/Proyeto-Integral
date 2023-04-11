@@ -1,0 +1,8 @@
+.containerNav{
+    background-color: rgb(250, 252, 252);
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}

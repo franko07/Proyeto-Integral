@@ -23,10 +23,11 @@
   }
 
   .imput {
-    width: 30%;
+    width: 40%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
     border: none;
     border-bottom: 2px solid rgb(20, 20, 20);
+    background-color: aqua;
   }
